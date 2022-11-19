@@ -13,7 +13,7 @@
 
 ## 📝 Future Tasks
 
-- [ Remaining / follup-up tasks left for future PRs]
+- [ Remaining / follow-up tasks left for future PRs]
 
 ## 📘 Notes
 
